@@ -7,3 +7,4 @@ Caller project: delphicaller -- compile with Delphi XE Tokyo 10.2
 
 This code demonstrates how to pass Class data type between Delphi and VC, and class class methods .
 
+source code: http://git.oschina.net/tigera15/delphi-vc-callwithclass/blob/master/delphi-vc-passClass.7z
